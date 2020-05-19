@@ -10,6 +10,7 @@ public class Camaramanager : MonoBehaviour
     public GameObject[] mundoPrefab;
     public float pJuego;
     public float lugarseguro = 2;
+
  
 
 
@@ -27,6 +28,7 @@ public class Camaramanager : MonoBehaviour
         if (jugador != null)
         {
             camaraDelJuego.transform.position = new Vector3(camaraDelJuego.transform.position.x, camaraDelJuego.transform.position.y, camaraDelJuego.transform.position.z);
+          
         }
 
         while (jugador != null && pJuego < jugador.transform.position.z + lugarseguro) 

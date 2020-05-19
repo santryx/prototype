@@ -105,6 +105,7 @@ GameObject:
   - component: {fileID: 2014071851565806494}
   - component: {fileID: 2014071851565806493}
   - component: {fileID: 2014071851565806492}
+  - component: {fileID: 6159361773915489002}
   m_Layer: 0
   m_Name: Obstaculo (2)
   m_TagString: Obstaculo
@@ -186,6 +187,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &6159361773915489002
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2014071851565806491}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.0000001, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &2014071851687912368
 GameObject:
   m_ObjectHideFlags: 0
@@ -198,6 +212,7 @@ GameObject:
   - component: {fileID: 2014071851687912371}
   - component: {fileID: 2014071851687912370}
   - component: {fileID: 2014071851687912369}
+  - component: {fileID: 7788079554663526198}
   m_Layer: 0
   m_Name: Obstaculo
   m_TagString: Obstaculo
@@ -279,6 +294,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &7788079554663526198
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2014071851687912368}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.0000001, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &2014071851993556823
 GameObject:
   m_ObjectHideFlags: 0
@@ -291,6 +319,7 @@ GameObject:
   - component: {fileID: 2014071851993556810}
   - component: {fileID: 2014071851993556809}
   - component: {fileID: 2014071851993556808}
+  - component: {fileID: 7738166265254209532}
   m_Layer: 0
   m_Name: Obstaculo (3)
   m_TagString: Obstaculo
@@ -368,6 +397,19 @@ BoxCollider:
   m_GameObject: {fileID: 2014071851993556823}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &7738166265254209532
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2014071851993556823}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -586,6 +628,7 @@ GameObject:
   - component: {fileID: 2014071853117641356}
   - component: {fileID: 2014071853117641355}
   - component: {fileID: 2014071853117641354}
+  - component: {fileID: 3815057199099353465}
   m_Layer: 0
   m_Name: Obstaculo (1)
   m_TagString: Obstaculo
@@ -667,6 +710,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &3815057199099353465
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2014071853117641353}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &2014071853318007568
 GameObject:
   m_ObjectHideFlags: 0
@@ -731,6 +787,7 @@ GameObject:
   - component: {fileID: 3383046249611281002}
   - component: {fileID: 3383046249611281013}
   - component: {fileID: 3383046249611281012}
+  - component: {fileID: 4289907295041001341}
   m_Layer: 0
   m_Name: Obstaculo (4)
   m_TagString: Obstaculo
@@ -808,6 +865,19 @@ BoxCollider:
   m_GameObject: {fileID: 3383046249611281014}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &4289907295041001341
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3383046249611281014}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
